@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/craftspec",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Craft filesystem spec paths across POSIX and Windows conventions.",
+  "bin": {
+    "craftspec": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/craftspec.git"
+  },
+  "homepage": "https://theworker02.github.io/craftspec/",
+  "keywords": [
+    "craft",
+    "spec",
+    "path",
+    "cli",
+    "toolkit"
+  ]
+}
